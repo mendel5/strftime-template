@@ -14,7 +14,7 @@ Templates to format date and time, e.g. on Linux systems
 ```
 
 ## Links
-[http://man7.org/linux/man-pages/man3/strftime.3.html](http://man7.org/linux/man-pages/man3/strftime.3.html)
-[http://strftime.net](http://strftime.net)
-[https://strftime.org](https://strftime.org)
-[https://www.foragoodstrftime.com](https://www.foragoodstrftime.com)
+- [http://man7.org/linux/man-pages/man3/strftime.3.html](http://man7.org/linux/man-pages/man3/strftime.3.html)
+- [http://strftime.net](http://strftime.net)
+- [https://strftime.org](https://strftime.org)
+- [https://www.foragoodstrftime.com](https://www.foragoodstrftime.com)
